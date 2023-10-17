@@ -2,10 +2,10 @@
 
 I'm a seasoned full stack engineer specializing in Android development.
 
-Checkout my [LinkedIn](https://www.linkedin.com/in/jeffreyrr/) for my Career History.
+I've been on a personal sabattical for 2023 and I am slowly looking for my next meaningful project!
 
 - 💻 I’m currently working on a few personal projects using [Compose Multiplatform](https://github.com/JetBrains/compose-multiplatform)!
-- 👨🏻‍💻 I am available for freelancing and consultancy jobs.
+- 👨🏻‍💻 I am available for freelancing and consultancy jobs. Checkout my [Career History on LinkedIn](https://www.linkedin.com/in/jeffreyrr/).
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/jeffreyrr/) or [X/Twitter](https://x.com/jeffreyrr).
 
 <!--
