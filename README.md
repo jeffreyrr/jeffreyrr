@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there! 👋 I'm Jeffrey Rogiers
+
+I'm a seasoned full stack engineer specializing in Android development.
+
+Checkout my [LinkedIn](https://www.linkedin.com/in/jeffreyrr/) for my Career History.
+
+- 💻 I’m currently working on a few personal projects using [Compose Multiplatform](https://github.com/JetBrains/compose-multiplatform)!
+- - 👨🏻‍💻 I am available for freelancing and consultancy jobs.
+- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/jeffreyrr/) or [X/Twitter](https://x.com/jeffreyrr).
 
 <!--
 **jeffreyrr/jeffreyrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
