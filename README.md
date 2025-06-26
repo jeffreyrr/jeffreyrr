@@ -1,12 +1,12 @@
 ### Hi there! 👋 I'm Jeffrey Rogiers
 
-I'm a seasoned full stack engineer specializing in Android development.
+I'm a seasoned full stack engineer specializing in Mobile, Cloud and AI development.
 
-I am currently working on my next stealth venture, but am always open to a worthwhile next endevour!
+I am always working on my next stealth venture, but am open to a worthwhile endevour!
 
-- 💻 I’m currently working on a few personal projects using [Compose Multiplatform](https://github.com/JetBrains/compose-multiplatform) and [NextJS](https://nextjs.org/)!
-- 👨🏻‍💻 I am available for freelancing and consultancy jobs. Checkout my [Career History on LinkedIn](https://www.linkedin.com/in/jeffreyrr/).
-- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/jeffreyrr/) or [X/Twitter](https://x.com/jeffreyrr).
+- 💻 I’m currently working on a few client projects.
+- 👨🏻‍💻 I am available for freelancing and consultaning.
+- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/jeffreyrr/).
 
 <!--
 **jeffreyrr/jeffreyrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
